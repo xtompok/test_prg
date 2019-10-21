@@ -1,5 +1,5 @@
 print("Ahoj")
 
 print("Hello")
-for i in range(10):
+for i in range(42):
     print(i)
